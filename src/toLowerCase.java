@@ -1,6 +1,6 @@
-public class toLowerCase {
+public class ToLowerCase {
     /*Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
-You cannot use the built-in function: .toLowerCase()
+You cannot use the built-in function: .ToLowerCase()
 */
 
 
